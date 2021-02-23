@@ -4,6 +4,13 @@
 
 ---
 
+# Arithmetic Formatter project
+
+### Links
+
+- [repl.it](https://repl.it/@EugeneKh/arithmeticformatter)
+- [freeCodeCamp](https://www.freecodecamp.org/learn/scientific-computing-with-python/scientific-computing-with-python-projects/arithmetic-formatter)
+
 ### Assignment
 
 Students in primary school often arrange arithmetic problems vertically to make them easier to solve. For example, "235
@@ -23,7 +30,7 @@ to `True`, the answers should be displayed.
 
 Function Call:
 
-```py
+```python
 arithmetic_arranger(["32 + 698", "3801 - 2", "45 + 43", "123 + 49"])
 ```
 
